@@ -6,5 +6,7 @@ public class ClassTwo {
         int x=5;
         int sum = x+2;
         System.out.println(sum);
+        
+        System.out.println("this is remote depository code");
     }
 }
